@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element type="itemremove" group="Other">
+	<name>Item Remove</name>
+	<author>Attavus M.D.</author>
+	<creationDate>March 2013</creationDate>
+	<copyright>Copyright (C) 2013 R.A.S.Lab[.org]</copyright>
+	<authorEmail>webmaster@raslab.org</authorEmail>
+	<authorUrl>http://www.raslab.org</authorUrl>
+	<version>3.0.1</version>
+	<description>ItemRemove Element - Displays a link to remove an item in the Front-end.</description>
+</element>
