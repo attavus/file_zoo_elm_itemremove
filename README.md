@@ -1,2 +1,1 @@
-# file_zoo_elm_itemremove
-ItemRemove Element for ZOO
+## ItemRemove Element for YOOtheme ZOO ##
