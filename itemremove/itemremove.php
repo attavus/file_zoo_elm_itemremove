@@ -5,8 +5,8 @@
 * @version   3.3.0 March 2015
 * @author    Attavus M.D. http://www.raslab.org
 * @copyright Copyright (C) 2013-2015 R.A.S.Lab[.org]
-* @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
-*******************************************************************/
+* @license   http://opensource.org/licenses/GPL-2.0 GNU/GPLv2 only
+*****************************************************************/
 
 // no direct access
 defined('_JEXEC') or die('Restricted access');
