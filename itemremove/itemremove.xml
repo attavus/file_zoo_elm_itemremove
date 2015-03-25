@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <element type="itemremove" group="Other">
 	<name>Item Remove</name>
+	<version>3.3.0</version>
+	<creationDate>March 2015</creationDate>
 	<author>Attavus M.D.</author>
-	<creationDate>March 2013</creationDate>
-	<copyright>Copyright (C) 2013 R.A.S.Lab[.org]</copyright>
 	<authorEmail>webmaster@raslab.org</authorEmail>
 	<authorUrl>http://www.raslab.org</authorUrl>
-	<version>3.0.1</version>
-	<description>ItemRemove Element - Displays a link to remove an item in the Front-end.</description>
+	<copyright>Copyright (C) 2013-2015 R.A.S.Lab[.org]</copyright>
+	<license>http://opensource.org/licenses/GPL-2.0 GNU/GPLv2 only</license>
+	<description>
+		<![CDATA[<img src="components/com_zoo/assets/images/zoo.png" style="float: left;"/><a href="http://www.raslab.org/en/filerepository/item/itemremove-element-for-zoo" target="_blank">ItemRemove Element for YOOtheme ZOO</a> >= 3.3.0! <br/>developed by R.A.S.Lab[.org] (http://www.raslab.org).<br/><span style="clear: left;"></span>]]>
+	</description>
 </element>
